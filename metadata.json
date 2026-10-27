@@ -1,0 +1,6 @@
+{
+  "name": "ESP32 Vital Signs Monitor",
+  "description": "Real-time telemetry dashboard for ESP32 and MAX30102 sensor tracking BPM, SpO2, and PPG pulse waveform with data recording and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
